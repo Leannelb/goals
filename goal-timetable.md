@@ -9,3 +9,4 @@
 |           | Workout - One Round Tabata  |
 |           | Workout - Splits                   |
 |           | Workout - Stretch                  |
+|           | Meditation - 2m                  |
