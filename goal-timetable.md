@@ -4,11 +4,11 @@
 
 ## Summary Week 1 Goals
 
-| Day              | Code              | Forex     |    Workout |
-| :--------------- | :---------------: | --------: | ---------: |
-|  Monday   6th    | Front-End Masters | Done      | Done     |
-|  Tuesday   7th   | Front-End Masters | Done      | Done     |
-|  Wednesday 8th   |            |   Done    |       |
+| Day              | Code              | Forex     |    Workout |  Meditation |
+| :--------------- | :---------------: | --------: | ---------: | ---------: |
+|  Monday   6th    | Front-End Masters | Done      | Done     | Done     | 
+|  Tuesday   7th   | Front-End Masters | Done      | Done     | Done     | 
+|  Wednesday 8th   | Front-End Masters | Done      | Done     | Done     | 
 |  Thursday  9th   |            |        |          |
 |  Friday    10th  |            |        |          |
 |  Saturday  11th  |            |        |          |
