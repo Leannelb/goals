@@ -6,12 +6,13 @@
 
 | Day              | Code              | Forex     |    Workout |
 | :--------------- | :---------------: | --------: | ---------: |
-|  Tuesday   7th   | Front-End Masters | Done      | To Do      |
-|  Wednesday 8th   |  |       |       |
-|  Thursday  9th   |   |        |        |
-|  Friday    10th  |  |        |        |
-|  Saturday  11th  |  |       |       |
-|  Sunday    12th  |  |       |        |
+|  Monday   6th    | Front-End Masters | Done      | Done     |
+|  Tuesday   7th   | Front-End Masters | Done      | Done     |
+|  Wednesday 8th   |            |   Done    |       |
+|  Thursday  9th   |            |        |          |
+|  Friday    10th  |            |        |          |
+|  Saturday  11th  |            |        |          |
+|  Sunday    12th  |            |        |          |
 
 
 ## In Depth Week 1
