@@ -15,6 +15,18 @@
 |  Sunday    12th  |   n         |   n     |   n       | n  |
 |  Monday    13th  |   n         |    n    |    n      | n  |
 
+## Summary Week 2 Goals
+
+| Day              | Code              | Forex     |    Workout |  Meditation |
+| :--------------- | :---------------: | --------: | ---------: | ---------: |
+|  Monday   13th    |  |       |      |      | 
+|  Tuesday   14th   |  |       |      |      | 
+|  Wednesday 15th   |  |       |      |      | 
+|  Thursday  16th   |  |       |      |      | 
+|  Friday    17th  |      |        |          |
+|  Saturday  18th  |            |        |          |   |
+|  Sunday    19th  |            |        |          |   |
+|  Monday    20th  |            |        |          |   |
 
 ## In Depth Week 1
 
