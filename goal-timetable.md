@@ -10,9 +10,10 @@
 |  Tuesday   7th   | Front-End Masters | Done      | Done     | Done     | 
 |  Wednesday 8th   | Front-End Masters | Done      | Done     | Done     | 
 |  Thursday  9th   | Front-End Masters | Done      | Done     | Done     | 
-|  Friday    10th  |            |        |          |
-|  Saturday  11th  |            |        |          |
-|  Sunday    12th  |            |        |          |
+|  Friday    10th  | Front-End Masters     |        |          |
+|  Saturday  11th  |   n         |  n      |  n        | n  |
+|  Sunday    12th  |   n         |   n     |   n       | n  |
+|  Monday    13th  |   n         |    n    |    n      | n  |
 
 
 ## In Depth Week 1
