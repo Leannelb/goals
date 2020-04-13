@@ -19,7 +19,7 @@
 
 | Day              | Code              | Forex     |    Workout |  Meditation |
 | :--------------- | :---------------: | --------: | ---------: | ---------: |
-|  Monday   13th    |  |       |      |      | 
+|  Monday   13th    |   n         |    n    |    n      | n  |
 |  Tuesday   14th   |  |       |      |      | 
 |  Wednesday 15th   |  |       |      |      | 
 |  Thursday  16th   |  |       |      |      | 
