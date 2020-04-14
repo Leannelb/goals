@@ -30,3 +30,5 @@
 | **Snack**   | Didn't count |  C F P  |
 |  **Day**        | **Monday**   ***13 Apr 20***      |  C F P | 
 | **Snack**   | Didn't count |  C F P  |
+|  **Day**        | **Tuesday**   ***13 Apr 20***      |  C F P | 
+| **Snack**   | Didn't count but ate well |  C F P  |

@@ -19,8 +19,8 @@
 
 | Day              | Code              | Forex     |    Workout |  Meditation |
 | :--------------- | :---------------: | --------: | ---------: | ---------: |
-|  Monday   13th    |   n         |    n    |    n      | n  |
-|  Tuesday   14th   |  |       |      |      | 
+|  Monday   13th    |   n                 |    n      |          n            |     n       |
+|  Tuesday   14th   | JS the recent parts | Done AM  | Done - Splits & Daily | Done 15m     | 
 |  Wednesday 15th   |  |       |      |      | 
 |  Thursday  16th   |  |       |      |      | 
 |  Friday    17th  |      |        |          |
