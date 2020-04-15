@@ -21,7 +21,7 @@
 | :--------------- | :---------------: | --------: | ---------: | ---------: |
 |  Monday   13th    |   n                 |    n      |          n            |     n       |
 |  Tuesday   14th   | JS the recent parts | Done AM  | Done - Splits & Daily | Done 15m     | 
-|  Wednesday 15th   |  |       |      |      | 
+|  Wednesday 15th  | JS the recent parts | Done AM  | Done - Splits & Daily | Done 25m     | 
 |  Thursday  16th   |  |       |      |      | 
 |  Friday    17th  |      |        |          |
 |  Saturday  18th  |            |        |          |   |
