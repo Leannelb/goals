@@ -17,12 +17,12 @@
 
 ## Summary Week 2 Goals
 
-| Day              | Code              | Forex     |    Workout |  Meditation |
-| :--------------- | :---------------: | --------: | ---------: | ---------: |
-|  Monday   13th    |   n                 |    n      |          n            |     n       |
-|  Tuesday   14th   | JS the recent parts | Done AM  | Done - Splits & Daily | Done 15m     | 
-|  Wednesday 15th  | JS the recent parts | Done AM  | Done - Splits & Daily | Done 15m     | 
-|  Thursday  16th   | JS the recent parts | Done AM  | Done - Splits & 20m wo | Done 15m     | 
+| Day              | Code              | Forex     | Spanish |   Workout |  Meditation |
+| :--------------- | :---------------: | --------: | ---------: | ---------: | ---------: |
+|  Monday   13th    |   n                 | n      | n          | n       |       n       |
+|  Tuesday   14th   | JS the recent parts | Y      | n | Done - Splits & Daily | Done 15m | 
+|  Wednesday 15th  | JS the recent parts  | Y   | Y | Done - Splits & Daily  | Done 15m| 
+|  Thursday 16th | JS the recent parts  | Y   | Y | Done - Splits & Online  | Done 15m| 
 |  Friday    17th  |      |        |          |
 |  Saturday  18th  |            |        |          |   |
 |  Sunday    19th  |            |        |          |   |
