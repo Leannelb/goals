@@ -17,8 +17,8 @@
 
 ## Summary Week 2 Goals
 
-| Day              | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
-| :--------------- | :---------------: | --------: | ---------: | ---------: | ---------: |---------: |
+| Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
+| :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
 |  Monday   13th    |   n                 | n      | n          | n       |       n       ||
 |  Tuesday   14th   | JS the recent parts | Y      | n | Done - Splits & Daily | Done 15m | |
 |  Wednesday 15th  | JS the recent parts  | Y   | Y | Done - Splits & Daily  | Done 15m| |
@@ -27,14 +27,3 @@
 |  Saturday  18th  |        |        |          |     |       |       |
 |  Sunday    19th  |     |        |          |     |       |       |
 |  Monday    20th  |         |        |          |     |       |       |
-
-## In Depth Week 1
-
-| Day       | Activity                  |
-| ----------| -------------             |
-| Tuesday   | **Code** - Front-end Masters  |
-| 07 Apr 20 | **Forex**                     |
-|           | Workout - One Round Tabata  |
-|           | Workout - Splits                   |
-|           | Workout - Stretch                  |
-|           | Meditation - 2m                  |
