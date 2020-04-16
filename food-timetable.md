@@ -34,3 +34,10 @@
 | **Snack**   | Didn't count but ate well |  C F P  |
 |  **Day**        | **Wed**   ***14 Apr 20***      |  C F P | 
 | **Snack**   | Didn't count but ate well |  C F P  |
+|___________________|_____________________________________________________________|________|
+|  **Day**        | **Thursday**   ***15 Apr 20***      |  110c 49f 112p | 
+| **Snack** 7:00   | porridge |  27 5 10  |
+| **Breakfast** 8:15| 2 Egg      |  0 10 12 |
+| **Dinner**       | Salmon, Lentils & Green Beans | 61 24 48 |
+| **Snack**       | Low Fat Cottage Cheese and Jam |  14 1 19 |
+| **Lunch 2**     | 2 Ryvita Crackers and Tuna Can & Cheese  |  7 8 34 |
