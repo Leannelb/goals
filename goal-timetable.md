@@ -23,7 +23,18 @@
 |  Tuesday   14th   | JS the recent parts | Y      | n | Done - Splits & Daily | Done 15m | |
 |  Wednesday 15th  | JS the recent parts  | Y   | Y | Done - Splits & Daily  | Done 15m| |
 |  Thursday 16th | JS the recent parts  | Y   | Y | Done - Splits & Online  | Done 15m|  Y |
-|  Friday    17th  |      |        |          |     |       |       |
-|  Saturday  18th  |        |        |          |     |       |       |
-|  Sunday    19th  |     |        |          |     |       |       |
-|  Monday    20th  |         |        |          |     |       |       |
+|  Friday    17th  | n | Y   | Y | Done - Splits & Online  | Done 15m |  Y |
+|  Saturday  18th | n | Y   | Y | break | N |  N |
+|  Sunday    19th | Y | n  | n | Done - Splits & Online  | Done 15m |  Y |
+
+_____
+
+| Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
+| :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
+|  Mon 20th  |         |        |          |     |       |       |
+|  Tues 21th  |         |        |          |     |       |       |
+|  Wed 23th  |         |        |          |     |       |       |
+|  Thurs 24th  |         |        |          |     |       |       |
+|  Fri 25th  |         |        |          |     |       |       |
+|  Sat 26th  |         |        |          |     |       |       |
+|  Sun 27th  |         |        |          |     |       |       |
