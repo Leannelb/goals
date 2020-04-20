@@ -31,7 +31,7 @@ _____
 
 | Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
 | :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
-|  Mon 20th  |         |        |          |     |       |       |
+|  Mon 20th  | JS the recent parts  | Y |          | Done - Splits & Tabatta x2 | Y |   |
 |  Tues 21th  |         |        |          |     |       |       |
 |  Wed 23th  |         |        |          |     |       |       |
 |  Thurs 24th  |         |        |          |     |       |       |
