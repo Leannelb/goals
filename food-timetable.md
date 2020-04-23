@@ -42,9 +42,3 @@
 | **Snack**       | Low Fat Cottage Cheese and Jam |  14 1 19 |
 | **Lunch 2**     | 2 Ryvita Crackers and Tuna Can & Cheese  |  7 8 34 |
 |___________________|_____________________________________________________________|________|
-|  **Day**        | **Friday 16th April**      |  110c 49f 112p | 
-| **Snack** 7:00| porridge |  27 5 10  |
-| **Breakfast** | 2 Egg      |  0 10 12 |
-<!-- | **Dinner**    | Salmon, Lentils & Green Beans | 61 24 48 |
-| **Snack**     | Low Fat Cottage Cheese and Jam |  14 1 19 |
-| **Lunch 2**   | 2 Ryvita Crackers and Tuna Can & Cheese  |  7 8 34 | -->
