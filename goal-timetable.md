@@ -31,10 +31,10 @@ _____
 
 | Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
 | :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
-|  Mon 20th  | JS the recent parts  | Y |          | Done - Splits & Tabatta x2 | Y |   |
-|  Tues 21th  |         |        |          |     |       |       |
-|  Wed 23th  |         |        |          |     |       |       |
-|  Thurs 24th  |         |        |          |     |       |       |
+|  Mon 20th  | JS the recent parts  | Y | Y | Done - Splits & Tabatta x2 | Y | N  |
+|  Tues 21th  | JS the recent parts  | Y | Y | Done - Splits & Tabatta | Y | N  |
+|  Wed 23th  | Some on puds site - not enough | Y | Y | Done - Splits & Tabatta | Y | N  |
+|  Thurs 24th|         |     Y   |          | Done - Splits & Tabatta|  Y     |   Y    |
 |  Fri 25th  |         |        |          |     |       |       |
 |  Sat 26th  |         |        |          |     |       |       |
 |  Sun 27th  |         |        |          |     |       |       |
