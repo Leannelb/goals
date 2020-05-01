@@ -38,3 +38,12 @@ _____
 |  Fri 25th  |         |        |          |     |       |       |
 |  Sat 26th  |         |        |          |     |       |       |
 |  Sun 27th  |         |        |          |     |       |       |
+| Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
+| :----- | :--: | :--: | :------: | :-------: | :---------: | :---------: |
+|  Mon 27th  | Y | Y | N | Y | Y | N  |
+|  Tues 28th | Y | Y | N | Y | Y | N  |
+|  Wed 29th  | Y | Y | N | Y | Y | N  |
+|  Thurs 30th| Y | Y | N | N | Y |  N |
+|  Fri 01st  |  | |    |     |       |       |
+|  Sat 26th  |         |        |          |     |       |       |
+|  Sun 27th  |         |        |          |     |       |       |
