@@ -44,7 +44,7 @@ _____
 
 | Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
 | :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
-|  Monday 04th | Lots of extra work Owen  | n    | n    | Y 30m  | n | n |       
-|  Fri 25th   |  |     |    |   |   |   |  
+|  Monday 04th | Lots of extra work Owen  | y | n    | Y 30m  | n | n |       
+|  Tues 05th   | Lots of extra work Owen  |  y  |    |   |   |   |  
 |  Sat 26th   |  |     |    |   |   |   |  
 |  Sun 27th   |   |    |   |    |   |   |  
