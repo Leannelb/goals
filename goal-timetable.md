@@ -46,5 +46,6 @@ _____
 | :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
 |  Monday 04th | Lots of extra work Owen  | y | n    | Y 30m  | n | n |       
 |  Tues 05th   | Lots of extra work Owen  |  y  |    |   |   |   |  
-|  Sat 26th   |  |     |    |   |   |   |  
-|  Sun 27th   |   |    |   |    |   |   |  
+|  Fri 08th   | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
+|  Sat 09th   | Lots of extra work Owen  | y |  y  |   y   |  y   |  y   |   y  |  
+|  Sun th   | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
