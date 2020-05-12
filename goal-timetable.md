@@ -49,3 +49,11 @@ _____
 |  Fri 08th   | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
 |  Sat 09th   | Lots of extra work Owen  | y |  y  |   y   |  y   |  y   |   y  |  
 |  Sun th   | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
+
+
+| Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
+| :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
+|  Monday 11th | shopping  | n |  n |  n | n | n |       
+|  Tues 12th   | Extra work Owen  |  y  |  y |   | y   | y   | y | 
+|  Fri    | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
+|  Sat    | Lots of extra work Owen  | y |  y  |   y   |  y   |  y   |   y  |  
