@@ -40,8 +40,28 @@ _____
 |  Sun 27th  |         |        |          |     |       |       |
 
 
+<<<<<<< HEAD
 | MONTH - May| Code | Forex | Spanish | Workout | Meditation | Gratitude |
 | :--------- | :--: | :---: | :-----: | :-----: | :--------: | :-------: |
 |  Wed 14th  |c   |f  |s   |w  |m: **Y**  |g: **Y** |
 | Tues 15th  |c   |f  |s   |w  |m  |g   |
   Wed 16th  |c   |f  |s   |w  |m  |g    |
+=======
+## Summary Week 2 Goals
+
+| Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
+| :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
+|  Monday 04th | Lots of extra work Owen  | y | n    | Y 30m  | n | n |       
+|  Tues 05th   | Lots of extra work Owen  |  y  |    |   |   |   |  
+|  Fri 08th   | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
+|  Sat 09th   | Lots of extra work Owen  | y |  y  |   y   |  y   |  y   |   y  |  
+|  Sun th   | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
+
+
+| Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
+| :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
+|  Monday 11th | shopping  | n |  n |  n | n | n |       
+|  Tues 12th   | Extra work Owen  |  y  |  y |   | y   | y   | y | 
+|  Fri    | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
+|  Sat    | Lots of extra work Owen  | y |  y  |   y   |  y   |  y   |   y  |  
+>>>>>>> 2aaad452f0a97d490e5c76ffe853f3cb57e3454b

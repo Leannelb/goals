@@ -10,3 +10,8 @@ Wish - Order Total
 ## VGA TO HDMI
 ### Estimated delivery:  Fri, 5 Jun.–Fri, 10 Jul.
 #### Order Total 3.28
+
+## 7-Port USB 2.0 High Speed Splitter Hub Adapter For PC Notebook Computer
+### You should get this by Aug 5.
+#### Order total: $6.24
+
