@@ -42,6 +42,6 @@ _____
 
 | MONTH - May| Code | Forex | Spanish | Workout | Meditation | Gratitude |
 | :--------- | :--: | :---: | :-----: | :-----: | :--------: | :-------: |
-|  Wed 14th  |c   |f  |s   |w  |m  |g:  Y |
+|  Wed 14th  |c   |f  |s   |w  |m: **Y**  |g: **Y** |
 | Tues 15th  |c   |f  |s   |w  |m  |g   |
   Wed 16th  |c   |f  |s   |w  |m  |g    |
