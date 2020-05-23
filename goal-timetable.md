@@ -57,3 +57,12 @@ _____
 |  Tues 12th   | Extra work Owen  |  y  |  y |   | y   | y   | y | 
 |  Fri    | Lots of extra work Owen  | y  |  y  |   y   |  y   |  y   |   y  |  
 |  Sat    | Lots of extra work Owen  | y |  y  |   y   |  y   |  y   |   y  |  
+
+
+
+| Day      | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
+| :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
+|  Monday 18th | y  | n |  n |  n | n | n |       
+|  Tues 19th   | y  |  y -deposited 300  |  y |  y | y   | y   | y | 
+|  Fri    | c  | f  |  s  |   w   |  m   |  g   |   y  |  
+|  Sat    | c  | f |  s   |   w   |  m   |  g   |   y  |  
