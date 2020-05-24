@@ -64,5 +64,10 @@ _____
 | :------- | :------: | :--------: | :---------: | :---------: | :---------: | :---------: |
 |  Monday 18th | y  | n |  n |  n | n | n |       
 |  Tues 19th   | y  |  y -deposited 300  |  y |  y | y   | y   | y | 
-|  Fri    | c  | f  |  s  |   w   |  m   |  g   |   y  |  
-|  Sat    | c  | f |  s   |   w   |  m   |  g   |   y  |  
+|  Wed 20th  | c: **Y** 1hr Big Data & Python  | f: **Y**  |  s: **Y**  |   w: **Y** tabata  |  **Y** 15 min  |  g: **Y** am&pm  |  
+|Sat 23rd| c: **Y** | f: called Brians mams friend | s: **Y**|w: **Y**|m:**Y**|g: **Y**|y: **Y**|  
+|Sun 24th| c: **Y** | f: n | s: **Y**|w: **Y**|m:**Y**|g: **Y**|y: **Y**|  
+
+| Day    | Code | Forex     | Spanish |   Workout |  Meditation |  Gratitude |
+| :------- | :----: |:------:|:------:|:---------:|:---------: | :---------: |
+|TBD 25th| c: **Y** | f: n | s: **Y**|w: **Y**|m:**Y**|g: **Y**|y: **Y**|  
