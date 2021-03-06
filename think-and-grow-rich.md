@@ -20,3 +20,4 @@
 - we cant get everyhting done today, but working towards the goal, focusing when you sit down and chipping away, that will get you there.
 - from a positive aroma, not negative
 - make desions and be resolute with them, dont worry about something again once decided, just let your intuition guide you
+- take the time to do things with care, invested & properly once.
