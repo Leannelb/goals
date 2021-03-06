@@ -12,3 +12,7 @@
 - 13 Proven Steps to Riches 
 
 ### Question 3 of book 
+### The secret is not to put too much pressure on yourself
+- not negative pressure
+- there is time for everyting
+- family and freinds are so important 
