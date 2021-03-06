@@ -16,3 +16,4 @@
 - not negative pressure
 - there is time for everyting
 - family and freinds are so important 
+- when you study, there is no rush Leanne. You'll get it all done. Be focused every time you sit down to work, and remember, you must have breaks too and spend time with the people you love. 
