@@ -10,3 +10,5 @@
 
 ### Q2: Think and Grow Rich is based on Andrew Carnigie's formula for money-making and the:
 - 13 Proven Steps to Riches 
+
+### Question 3 of book 
