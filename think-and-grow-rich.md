@@ -19,5 +19,6 @@
 - when you study, there is no rush Leanne. You'll get it all done. Be focused every time you sit down to work, and remember, you must have breaks too and spend time with the people you love. 
 - we cant get everyhting done today, but working towards the goal, focusing when you sit down and chipping away, that will get you there.
 - from a positive aroma, not negative
-- make desions and be resolute with them, dont worry about something again once decided, just let your intuition guide you
+- make desions and be resolute with them, dont worry about something again once decided, just let your intuition guide you. DO NOT second guess yourself.
 - take the time to do things with care, invested & properly once.
+- give everything your full attention
