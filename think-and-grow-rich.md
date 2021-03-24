@@ -22,3 +22,6 @@
 - make desions and be resolute with them, dont worry about something again once decided, just let your intuition guide you. DO NOT second guess yourself.
 - take the time to do things with care, invested & properly once.
 - give everything your full attention
+
+- give everything your full attention
+- working towards the goal, chipping away is all that needs to be done. 
