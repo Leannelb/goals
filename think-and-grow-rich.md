@@ -25,3 +25,7 @@
 
 - give everything your full attention
 - working towards the goal, chipping away is all that needs to be done. 
+
+- do not put negative pressure on yourself
+- there is time FOR EVERYTING leanne
+- when you study, do not rush, just focus. enjoy your breaks and spend it witth the people you love 
