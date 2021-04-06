@@ -28,4 +28,6 @@
 
 - do not put negative pressure on yourself
 - there is time FOR EVERYTING leanne
-- when you study, do not rush, just focus. enjoy your breaks and spend it witth the people you love 
+- when you study, do not rush, just focus. enjoy your breaks and spend it with the people you love 
+- we cant get everything done today, and thats okay, litte and often is all you need to succeed.
+- little and often is all you need to succeed
