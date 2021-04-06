@@ -31,3 +31,4 @@
 - when you study, do not rush, just focus. enjoy your breaks and spend it with the people you love 
 - we cant get everything done today, and thats okay, litte and often is all you need to succeed.
 - little and often is all you need to succeed
+- there is time for eveything
