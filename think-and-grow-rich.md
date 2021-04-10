@@ -33,3 +33,4 @@
 - little and often is all you need to succeed
 - there is time for eveything
 - when you study, do not rush, just focus.
+- give everything you full atttention 
