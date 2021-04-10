@@ -32,3 +32,4 @@
 - we cant get everything done today, and thats okay, litte and often is all you need to succeed.
 - little and often is all you need to succeed
 - there is time for eveything
+- when you study, do not rush, just focus.
