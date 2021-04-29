@@ -7,3 +7,18 @@
  - you will be succesfull
  - you are loved
  - you are supported
+
+# What needs to be done
+1. Assignment
+2. Malta buy and sell
+3. Reorder folder structure - start with sites.
+3. Timetable ordering new
+    - meditation
+    - workout 
+    - brain squats
+    - study
+    - youtube this quater
+4. Morgatge approval
+5. Reading at night before bed
+6. 6am starts
+7. focus in work
