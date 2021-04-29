@@ -22,3 +22,4 @@
 5. Reading at night before bed
 6. 6am starts
 7. focus in work
+8. Get a house and get up on youtube - get a phone?
