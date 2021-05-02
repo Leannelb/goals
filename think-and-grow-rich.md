@@ -34,3 +34,5 @@
 - there is time for eveything
 - when you study, do not rush, just focus.
 - give everything you full atttention 
+
+- This is your time to shine. Focus and had work and you will succeed
