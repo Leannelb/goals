@@ -37,3 +37,4 @@
 
 - This is your time to shine. Focus and had work and you will succeed
 - get yourself out there, dont be shy about youtube, be confident. you will generate success throguh you being out there and the opportunities that will fly to you as a result
+- watching rag with dad now <3 >
